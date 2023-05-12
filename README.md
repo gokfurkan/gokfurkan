@@ -2,7 +2,7 @@
 <h3 align="center">A passionate unity developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
-- 🔭 I’m currently working on [Chicken Jump](https://github.com/gokfurkan/Chicken_Jump.git)
+- 🔭 I’m currently working on [Gun Shooting Range](https://github.com/gokfurkan/GunShootingRange.git)
 
 - 💬 Ask me about **Unity , C#**
 

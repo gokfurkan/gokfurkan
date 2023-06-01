@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate unity developer from Turkey</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
-
-- 💬 Ask me about **Unity , C#**
-
-- 📫 How to reach me **furkangok270@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
